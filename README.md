@@ -60,7 +60,7 @@ def eh_negativo(numero):
       bool: True se negativo, False se zero ou positivo.
     '''
     return numero < 0
-
+    
 
 def eh_primo(numero):
     '''
