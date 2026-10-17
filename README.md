@@ -86,7 +86,7 @@ def calcula_dobro(numero):
     Retorno:
       float/int: O dobro do número.
     '''
-    return numero * 2
+    return numero * 2 
 
 
 def maior_de_dois(a, b):
